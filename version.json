@@ -1,0 +1,135 @@
+{
+  "versionCode": 1328,
+  "versionName": "a133-1328-3875c32",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota-test/releases/download/ota-1328-test1/nida-home-release.apk",
+  "sha256": "2a63181c10b62d2c94266a68711d0b9aa7a4080a6472364061720f795ab6aaf1",
+  "rescueApkUrl": "https://github.com/Taz1313/nida-home-ota-test/releases/download/ota-1328-test1/nida-home-rescue.apk",
+  "rescueSha256": "a32c213a14acf5ccf442a5427dd06cdb97feb02b527eb4b1d0cc83c2174338d4",
+  "rescueVersionCode": 1328,
+  "notes": {},
+  "latestNotes": {
+    "fr": [
+      "Puzzle des lettres et des histoires — Reconstituez une lettre et ses mots, ou une scène d’une histoire, de 4 à 24 pièces, puis écoutez et répondez.",
+      "Œil de faucon — Deux cartes, un seul symbole en commun : lettres et chiffres arabes, de 1 à 4 joueurs, avec un classement.",
+      "Réglez le volume d’un geste avec l’icône de son, en haut à droite de chaque espace",
+      "Pour quitter un espace, la croix est toujours en haut à droite"
+    ],
+    "en": [
+      "Letters & Stories Puzzle — Rebuild a letter and its words, or a scene from a story, in 4 to 24 pieces, then listen and answer.",
+      "Falcon Eye — Two cards, only one symbol in common: Arabic letters and numbers, for 1 to 4 players, with a leaderboard.",
+      "Adjust the volume in one touch with the sound icon, at the top right of every space",
+      "To leave a space, the cross is always at the top right"
+    ],
+    "ar": [
+      "أحجية الحروف والقصص — أعيدوا تركيب حرف وكلماته أو مشهد من قصة، من ٤ إلى ٢٤ قطعة، ثم استمعوا وأجيبوا.",
+      "عين الصقر — بطاقتان ورمز واحد مشترك: حروف وأرقام عربية، من لاعب إلى أربعة لاعبين، مع جدول للترتيب.",
+      "اضبطوا مستوى الصوت بلمسة واحدة من أيقونة الصوت أعلى يمين كل قسم",
+      "للخروج من أي قسم، علامة الإغلاق دائمًا في الأعلى على اليمين"
+    ],
+    "tr": [
+      "Harf ve Hikâye Yapbozu — Bir harfi ve kelimelerini ya da bir hikâye sahnesini 4 ila 24 parçayla tamamlayın, sonra dinleyip cevaplayın.",
+      "Şahin Gözü — İki kart, tek bir ortak sembol: Arap harfleri ve rakamları, 1 ila 4 oyuncu, sıralamayla birlikte.",
+      "Her bölümün sağ üstündeki ses simgesiyle sesi tek dokunuşla ayarlayın",
+      "Bir bölümden çıkmak için çarpı her zaman sağ üstte"
+    ],
+    "de": [
+      "Buchstaben- und Geschichten-Puzzle — Setzen Sie einen Buchstaben mit seinen Wörtern oder eine Szene einer Geschichte aus 4 bis 24 Teilen zusammen, dann hören und antworten.",
+      "Falkenauge — Zwei Karten, nur ein gemeinsames Zeichen: arabische Buchstaben und Zahlen, für 1 bis 4 Spieler, mit Rangliste.",
+      "Stellen Sie die Lautstärke mit dem Lautsprecher-Symbol oben rechts in jedem Bereich ein",
+      "Zum Verlassen eines Bereichs ist das Kreuz immer oben rechts"
+    ]
+  },
+  "latestNotesVersionCode": 1322,
+  "latestNotesVersionName": "main-1322-ed4aa42",
+  "pages": [],
+  "latestPages": [
+    {
+      "title": {
+        "fr": "Deux nouveaux jeux",
+        "en": "Two new games",
+        "ar": "لعبتان جديدتان",
+        "tr": "İki yeni oyun",
+        "de": "Zwei neue Spiele"
+      },
+      "highlights": [
+        {
+          "title": {
+            "fr": "Puzzle des lettres et des histoires",
+            "en": "Letters & Stories Puzzle",
+            "ar": "أحجية الحروف والقصص",
+            "tr": "Harf ve Hikâye Yapbozu",
+            "de": "Buchstaben- und Geschichten-Puzzle"
+          },
+          "text": {
+            "fr": "Reconstituez une lettre et ses mots, ou une scène d’une histoire, de 4 à 24 pièces, puis écoutez et répondez.",
+            "en": "Rebuild a letter and its words, or a scene from a story, in 4 to 24 pieces, then listen and answer.",
+            "ar": "أعيدوا تركيب حرف وكلماته أو مشهد من قصة، من ٤ إلى ٢٤ قطعة، ثم استمعوا وأجيبوا.",
+            "tr": "Bir harfi ve kelimelerini ya da bir hikâye sahnesini 4 ila 24 parçayla tamamlayın, sonra dinleyip cevaplayın.",
+            "de": "Setzen Sie einen Buchstaben mit seinen Wörtern oder eine Szene einer Geschichte aus 4 bis 24 Teilen zusammen, dann hören und antworten."
+          }
+        },
+        {
+          "title": {
+            "fr": "Œil de faucon",
+            "en": "Falcon Eye",
+            "ar": "عين الصقر",
+            "tr": "Şahin Gözü",
+            "de": "Falkenauge"
+          },
+          "text": {
+            "fr": "Deux cartes, un seul symbole en commun : lettres et chiffres arabes, de 1 à 4 joueurs, avec un classement.",
+            "en": "Two cards, only one symbol in common: Arabic letters and numbers, for 1 to 4 players, with a leaderboard.",
+            "ar": "بطاقتان ورمز واحد مشترك: حروف وأرقام عربية، من لاعب إلى أربعة لاعبين، مع جدول للترتيب.",
+            "tr": "İki kart, tek bir ortak sembol: Arap harfleri ve rakamları, 1 ila 4 oyuncu, sıralamayla birlikte.",
+            "de": "Zwei Karten, nur ein gemeinsames Zeichen: arabische Buchstaben und Zahlen, für 1 bis 4 Spieler, mit Rangliste."
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "Plus simple partout",
+        "en": "Simpler everywhere",
+        "ar": "أسهل في كل مكان",
+        "tr": "Her yerde daha kolay",
+        "de": "Überall einfacher"
+      },
+      "notes": {
+        "fr": [
+          "Réglez le volume d’un geste avec l’icône de son, en haut à droite de chaque espace",
+          "Pour quitter un espace, la croix est toujours en haut à droite"
+        ],
+        "en": [
+          "Adjust the volume in one touch with the sound icon, at the top right of every space",
+          "To leave a space, the cross is always at the top right"
+        ],
+        "ar": [
+          "اضبطوا مستوى الصوت بلمسة واحدة من أيقونة الصوت أعلى يمين كل قسم",
+          "للخروج من أي قسم، علامة الإغلاق دائمًا في الأعلى على اليمين"
+        ],
+        "tr": [
+          "Her bölümün sağ üstündeki ses simgesiyle sesi tek dokunuşla ayarlayın",
+          "Bir bölümden çıkmak için çarpı her zaman sağ üstte"
+        ],
+        "de": [
+          "Stellen Sie die Lautstärke mit dem Lautsprecher-Symbol oben rechts in jedem Bereich ein",
+          "Zum Verlassen eines Bereichs ist das Kreuz immer oben rechts"
+        ]
+      }
+    }
+  ],
+  "manifestSequence": 1328,
+  "keyId": "afcfe96d38f7f2c872f85fa249f4d5d3c1f8147dd606fad6b9eb0cc7a9433bcc",
+  "manifestSignature": {
+    "version": 1,
+    "keyId": "afcfe96d38f7f2c872f85fa249f4d5d3c1f8147dd606fad6b9eb0cc7a9433bcc",
+    "payload": "eyJ2ZXJzaW9uQ29kZSI6MTMyOCwidmVyc2lvbk5hbWUiOiJhMTMzLTEzMjgtMzg3NWMzMiIsImFwa1VybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9UYXoxMzEzL25pZGEtaG9tZS1vdGEtdGVzdC9yZWxlYXNlcy9kb3dubG9hZC9vdGEtMTMyOC10ZXN0MS9uaWRhLWhvbWUtcmVsZWFzZS5hcGsiLCJzaGEyNTYiOiIyYTYzMTgxYzEwYjYyZDJjOTQyNjZhNjg3MTFkMGI5YWE3YTQwODBhNjQ3MjM2NDA2MTcyMGY3OTVhYjZhYWYxIiwicmVzY3VlQXBrVXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL1RhejEzMTMvbmlkYS1ob21lLW90YS10ZXN0L3JlbGVhc2VzL2Rvd25sb2FkL290YS0xMzI4LXRlc3QxL25pZGEtaG9tZS1yZXNjdWUuYXBrIiwicmVzY3VlU2hhMjU2IjoiYTMyYzIxM2ExNGFjZjVjY2Y0NDJhNTQyN2RkMDZjZGI5N2ZlYjAyYjUyN2ViNGIxZDBjYzgzYzIxNzQzMzhkNCIsInJlc2N1ZVZlcnNpb25Db2RlIjoxMzI4LCJub3RlcyI6e30sImxhdGVzdE5vdGVzIjp7ImZyIjpbIlB1enpsZSBkZXMgbGV0dHJlcyBldCBkZXMgaGlzdG9pcmVzIOKAlCBSZWNvbnN0aXR1ZXogdW5lIGxldHRyZSBldCBzZXMgbW90cywgb3UgdW5lIHNjw6huZSBk4oCZdW5lIGhpc3RvaXJlLCBkZSA0IMOgIDI0IHBpw6hjZXMsIHB1aXMgw6ljb3V0ZXogZXQgcsOpcG9uZGV6LiIsIsWSaWwgZGUgZmF1Y29uIOKAlCBEZXV4IGNhcnRlcywgdW4gc2V1bCBzeW1ib2xlIGVuIGNvbW11biA6IGxldHRyZXMgZXQgY2hpZmZyZXMgYXJhYmVzLCBkZSAxIMOgIDQgam91ZXVycywgYXZlYyB1biBjbGFzc2VtZW50LiIsIlLDqWdsZXogbGUgdm9sdW1lIGTigJl1biBnZXN0ZSBhdmVjIGzigJlpY8O0bmUgZGUgc29uLCBlbiBoYXV0IMOgIGRyb2l0ZSBkZSBjaGFxdWUgZXNwYWNlIiwiUG91ciBxdWl0dGVyIHVuIGVzcGFjZSwgbGEgY3JvaXggZXN0IHRvdWpvdXJzIGVuIGhhdXQgw6AgZHJvaXRlIl0sImVuIjpbIkxldHRlcnMgJiBTdG9yaWVzIFB1enpsZSDigJQgUmVidWlsZCBhIGxldHRlciBhbmQgaXRzIHdvcmRzLCBvciBhIHNjZW5lIGZyb20gYSBzdG9yeSwgaW4gNCB0byAyNCBwaWVjZXMsIHRoZW4gbGlzdGVuIGFuZCBhbnN3ZXIuIiwiRmFsY29uIEV5ZSDigJQgVHdvIGNhcmRzLCBvbmx5IG9uZSBzeW1ib2wgaW4gY29tbW9uOiBBcmFiaWMgbGV0dGVycyBhbmQgbnVtYmVycywgZm9yIDEgdG8gNCBwbGF5ZXJzLCB3aXRoIGEgbGVhZGVyYm9hcmQuIiwiQWRqdXN0IHRoZSB2b2x1bWUgaW4gb25lIHRvdWNoIHdpdGggdGhlIHNvdW5kIGljb24sIGF0IHRoZSB0b3AgcmlnaHQgb2YgZXZlcnkgc3BhY2UiLCJUbyBsZWF2ZSBhIHNwYWNlLCB0aGUgY3Jvc3MgaXMgYWx3YXlzIGF0IHRoZSB0b3AgcmlnaHQiXSwiYXIiOlsi2KPYrdis2YrYqSDYp9mE2K3YsdmI2YEg2YjYp9mE2YLYtdi1IOKAlCDYo9i52YrYr9mI2Kcg2KrYsdmD2YrYqCDYrdix2YEg2YjZg9mE2YXYp9iq2Ycg2KPZiCDZhdi02YfYryDZhdmGINmC2LXYqdiMINmF2YYg2aQg2KXZhNmJINmi2aQg2YLYt9i52KnYjCDYq9mFINin2LPYqtmF2LnZiNinINmI2KPYrNmK2KjZiNinLiIsIti52YrZhiDYp9mE2LXZgtixIOKAlCDYqNi32KfZgtiq2KfZhiDZiNix2YXYsiDZiNin2K3YryDZhdi02KrYsdmDOiDYrdix2YjZgSDZiNij2LHZgtin2YUg2LnYsdio2YrYqdiMINmF2YYg2YTYp9i52Kgg2KXZhNmJINij2LHYqNi52Kkg2YTYp9i52KjZitmG2Iwg2YXYuSDYrNiv2YjZhCDZhNmE2KrYsdiq2YrYqC4iLCLYp9i22KjYt9mI2Kcg2YXYs9iq2YjZiSDYp9mE2LXZiNiqINio2YTZhdiz2Kkg2YjYp9it2K_YqSDZhdmGINij2YrZgtmI2YbYqSDYp9mE2LXZiNiqINij2LnZhNmJINmK2YXZitmGINmD2YQg2YLYs9mFIiwi2YTZhNiu2LHZiNisINmF2YYg2KPZiiDZgtiz2YXYjCDYudmE2KfZhdipINin2YTYpdi62YTYp9mCINiv2KfYptmF2YvYpyDZgdmKINin2YTYo9i52YTZiSDYudmE2Ykg2KfZhNmK2YXZitmGIl0sInRyIjpbIkhhcmYgdmUgSGlrw6J5ZSBZYXBib3p1IOKAlCBCaXIgaGFyZmkgdmUga2VsaW1lbGVyaW5pIHlhIGRhIGJpciBoaWvDonllIHNhaG5lc2luaSA0IGlsYSAyNCBwYXLDp2F5bGEgdGFtYW1sYXnEsW4sIHNvbnJhIGRpbmxleWlwIGNldmFwbGF5xLFuLiIsIsWeYWhpbiBHw7Z6w7wg4oCUIMSwa2kga2FydCwgdGVrIGJpciBvcnRhayBzZW1ib2w6IEFyYXAgaGFyZmxlcmkgdmUgcmFrYW1sYXLEsSwgMSBpbGEgNCBveXVuY3UsIHPEsXJhbGFtYXlsYSBiaXJsaWt0ZS4iLCJIZXIgYsO2bMO8bcO8biBzYcSfIMO8c3TDvG5kZWtpIHNlcyBzaW1nZXNpeWxlIHNlc2kgdGVrIGRva3VudcWfbGEgYXlhcmxhecSxbiIsIkJpciBiw7Zsw7xtZGVuIMOnxLFrbWFrIGnDp2luIMOnYXJwxLEgaGVyIHphbWFuIHNhxJ8gw7xzdHRlIl0sImRlIjpbIkJ1Y2hzdGFiZW4tIHVuZCBHZXNjaGljaHRlbi1QdXp6bGUg4oCUIFNldHplbiBTaWUgZWluZW4gQnVjaHN0YWJlbiBtaXQgc2VpbmVuIFfDtnJ0ZXJuIG9kZXIgZWluZSBTemVuZSBlaW5lciBHZXNjaGljaHRlIGF1cyA0IGJpcyAyNCBUZWlsZW4genVzYW1tZW4sIGRhbm4gaMO2cmVuIHVuZCBhbnR3b3J0ZW4uIiwiRmFsa2VuYXVnZSDigJQgWndlaSBLYXJ0ZW4sIG51ciBlaW4gZ2VtZWluc2FtZXMgWmVpY2hlbjogYXJhYmlzY2hlIEJ1Y2hzdGFiZW4gdW5kIFphaGxlbiwgZsO8ciAxIGJpcyA0IFNwaWVsZXIsIG1pdCBSYW5nbGlzdGUuIiwiU3RlbGxlbiBTaWUgZGllIExhdXRzdMOkcmtlIG1pdCBkZW0gTGF1dHNwcmVjaGVyLVN5bWJvbCBvYmVuIHJlY2h0cyBpbiBqZWRlbSBCZXJlaWNoIGVpbiIsIlp1bSBWZXJsYXNzZW4gZWluZXMgQmVyZWljaHMgaXN0IGRhcyBLcmV1eiBpbW1lciBvYmVuIHJlY2h0cyJdfSwibGF0ZXN0Tm90ZXNWZXJzaW9uQ29kZSI6MTMyMiwibGF0ZXN0Tm90ZXNWZXJzaW9uTmFtZSI6Im1haW4tMTMyMi1lZDRhYTQyIiwicGFnZXMiOltdLCJsYXRlc3RQYWdlcyI6W3sidGl0bGUiOnsiZnIiOiJEZXV4IG5vdXZlYXV4IGpldXgiLCJlbiI6IlR3byBuZXcgZ2FtZXMiLCJhciI6ItmE2LnYqNiq2KfZhiDYrNiv2YrYr9iq2KfZhiIsInRyIjoixLBraSB5ZW5pIG95dW4iLCJkZSI6Ilp3ZWkgbmV1ZSBTcGllbGUifSwiaGlnaGxpZ2h0cyI6W3sidGl0bGUiOnsiZnIiOiJQdXp6bGUgZGVzIGxldHRyZXMgZXQgZGVzIGhpc3RvaXJlcyIsImVuIjoiTGV0dGVycyAmIFN0b3JpZXMgUHV6emxlIiwiYXIiOiLYo9it2KzZitipINin2YTYrdix2YjZgSDZiNin2YTZgti12LUiLCJ0ciI6IkhhcmYgdmUgSGlrw6J5ZSBZYXBib3p1IiwiZGUiOiJCdWNoc3RhYmVuLSB1bmQgR2VzY2hpY2h0ZW4tUHV6emxlIn0sInRleHQiOnsiZnIiOiJSZWNvbnN0aXR1ZXogdW5lIGxldHRyZSBldCBzZXMgbW90cywgb3UgdW5lIHNjw6huZSBk4oCZdW5lIGhpc3RvaXJlLCBkZSA0IMOgIDI0IHBpw6hjZXMsIHB1aXMgw6ljb3V0ZXogZXQgcsOpcG9uZGV6LiIsImVuIjoiUmVidWlsZCBhIGxldHRlciBhbmQgaXRzIHdvcmRzLCBvciBhIHNjZW5lIGZyb20gYSBzdG9yeSwgaW4gNCB0byAyNCBwaWVjZXMsIHRoZW4gbGlzdGVuIGFuZCBhbnN3ZXIuIiwiYXIiOiLYo9i52YrYr9mI2Kcg2KrYsdmD2YrYqCDYrdix2YEg2YjZg9mE2YXYp9iq2Ycg2KPZiCDZhdi02YfYryDZhdmGINmC2LXYqdiMINmF2YYg2aQg2KXZhNmJINmi2aQg2YLYt9i52KnYjCDYq9mFINin2LPYqtmF2LnZiNinINmI2KPYrNmK2KjZiNinLiIsInRyIjoiQmlyIGhhcmZpIHZlIGtlbGltZWxlcmluaSB5YSBkYSBiaXIgaGlrw6J5ZSBzYWhuZXNpbmkgNCBpbGEgMjQgcGFyw6dheWxhIHRhbWFtbGF5xLFuLCBzb25yYSBkaW5sZXlpcCBjZXZhcGxhecSxbi4iLCJkZSI6IlNldHplbiBTaWUgZWluZW4gQnVjaHN0YWJlbiBtaXQgc2VpbmVuIFfDtnJ0ZXJuIG9kZXIgZWluZSBTemVuZSBlaW5lciBHZXNjaGljaHRlIGF1cyA0IGJpcyAyNCBUZWlsZW4genVzYW1tZW4sIGRhbm4gaMO2cmVuIHVuZCBhbnR3b3J0ZW4uIn19LHsidGl0bGUiOnsiZnIiOiLFkmlsIGRlIGZhdWNvbiIsImVuIjoiRmFsY29uIEV5ZSIsImFyIjoi2LnZitmGINin2YTYtdmC2LEiLCJ0ciI6IsWeYWhpbiBHw7Z6w7wiLCJkZSI6IkZhbGtlbmF1Z2UifSwidGV4dCI6eyJmciI6IkRldXggY2FydGVzLCB1biBzZXVsIHN5bWJvbGUgZW4gY29tbXVuIDogbGV0dHJlcyBldCBjaGlmZnJlcyBhcmFiZXMsIGRlIDEgw6AgNCBqb3VldXJzLCBhdmVjIHVuIGNsYXNzZW1lbnQuIiwiZW4iOiJUd28gY2FyZHMsIG9ubHkgb25lIHN5bWJvbCBpbiBjb21tb246IEFyYWJpYyBsZXR0ZXJzIGFuZCBudW1iZXJzLCBmb3IgMSB0byA0IHBsYXllcnMsIHdpdGggYSBsZWFkZXJib2FyZC4iLCJhciI6Itio2LfYp9mC2KrYp9mGINmI2LHZhdiyINmI2KfYrdivINmF2LTYqtix2YM6INit2LHZiNmBINmI2KPYsdmC2KfZhSDYudix2KjZitip2Iwg2YXZhiDZhNin2LnYqCDYpdmE2Ykg2KPYsdio2LnYqSDZhNin2LnYqNmK2YbYjCDZhdi5INis2K_ZiNmEINmE2YTYqtix2KrZitioLiIsInRyIjoixLBraSBrYXJ0LCB0ZWsgYmlyIG9ydGFrIHNlbWJvbDogQXJhcCBoYXJmbGVyaSB2ZSByYWthbWxhcsSxLCAxIGlsYSA0IG95dW5jdSwgc8SxcmFsYW1heWxhIGJpcmxpa3RlLiIsImRlIjoiWndlaSBLYXJ0ZW4sIG51ciBlaW4gZ2VtZWluc2FtZXMgWmVpY2hlbjogYXJhYmlzY2hlIEJ1Y2hzdGFiZW4gdW5kIFphaGxlbiwgZsO8ciAxIGJpcyA0IFNwaWVsZXIsIG1pdCBSYW5nbGlzdGUuIn19XX0seyJ0aXRsZSI6eyJmciI6IlBsdXMgc2ltcGxlIHBhcnRvdXQiLCJlbiI6IlNpbXBsZXIgZXZlcnl3aGVyZSIsImFyIjoi2KPYs9mH2YQg2YHZiiDZg9mEINmF2YPYp9mGIiwidHIiOiJIZXIgeWVyZGUgZGFoYSBrb2xheSIsImRlIjoiw5xiZXJhbGwgZWluZmFjaGVyIn0sIm5vdGVzIjp7ImZyIjpbIlLDqWdsZXogbGUgdm9sdW1lIGTigJl1biBnZXN0ZSBhdmVjIGzigJlpY8O0bmUgZGUgc29uLCBlbiBoYXV0IMOgIGRyb2l0ZSBkZSBjaGFxdWUgZXNwYWNlIiwiUG91ciBxdWl0dGVyIHVuIGVzcGFjZSwgbGEgY3JvaXggZXN0IHRvdWpvdXJzIGVuIGhhdXQgw6AgZHJvaXRlIl0sImVuIjpbIkFkanVzdCB0aGUgdm9sdW1lIGluIG9uZSB0b3VjaCB3aXRoIHRoZSBzb3VuZCBpY29uLCBhdCB0aGUgdG9wIHJpZ2h0IG9mIGV2ZXJ5IHNwYWNlIiwiVG8gbGVhdmUgYSBzcGFjZSwgdGhlIGNyb3NzIGlzIGFsd2F5cyBhdCB0aGUgdG9wIHJpZ2h0Il0sImFyIjpbItin2LbYqNi32YjYpyDZhdiz2KrZiNmJINin2YTYtdmI2Kog2KjZhNmF2LPYqSDZiNin2K3Yr9ipINmF2YYg2KPZitmC2YjZhtipINin2YTYtdmI2Kog2KPYudmE2Ykg2YrZhdmK2YYg2YPZhCDZgtiz2YUiLCLZhNmE2K7YsdmI2Kwg2YXZhiDYo9mKINmC2LPZhdiMINi52YTYp9mF2Kkg2KfZhNil2LrZhNin2YIg2K_Yp9im2YXZi9inINmB2Yog2KfZhNij2LnZhNmJINi52YTZiSDYp9mE2YrZhdmK2YYiXSwidHIiOlsiSGVyIGLDtmzDvG3DvG4gc2HEnyDDvHN0w7xuZGVraSBzZXMgc2ltZ2VzaXlsZSBzZXNpIHRlayBkb2t1bnXFn2xhIGF5YXJsYXnEsW4iLCJCaXIgYsO2bMO8bWRlbiDDp8Sxa21hayBpw6dpbiDDp2FycMSxIGhlciB6YW1hbiBzYcSfIMO8c3R0ZSJdLCJkZSI6WyJTdGVsbGVuIFNpZSBkaWUgTGF1dHN0w6Rya2UgbWl0IGRlbSBMYXV0c3ByZWNoZXItU3ltYm9sIG9iZW4gcmVjaHRzIGluIGplZGVtIEJlcmVpY2ggZWluIiwiWnVtIFZlcmxhc3NlbiBlaW5lcyBCZXJlaWNocyBpc3QgZGFzIEtyZXV6IGltbWVyIG9iZW4gcmVjaHRzIl19fV0sIm1hbmlmZXN0U2VxdWVuY2UiOjEzMjgsImtleUlkIjoiYWZjZmU5NmQzOGY3ZjJjODcyZjg1ZmEyNDlmNGQ1ZDNjMWY4MTQ3ZGQ2MDZmYWQ2YjllYjBjYzdhOTQzM2JjYyJ9",
+    "signature": "MEYCIQDoRxsyX01bcZnokpqOAowHY4Q2JDAwtWCqL4uIYib9pQIhAIiD2VA2dtNyGizLIe1Rtg8nNDlfTypOKtLjh_i5ODYL",
+    "keyCertificate": {
+      "rootKeyId": "5d70987ed5024bb408fd072b1729f1785ddbf04890411e7b30d981eacde2f906",
+      "keyId": "afcfe96d38f7f2c872f85fa249f4d5d3c1f8147dd606fad6b9eb0cc7a9433bcc",
+      "publicKeySpkiBase64Url": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEwK3tuGZbZ_m6UT5-KKpl-zZIG6O-7Bc769dYSCN8Ng9FLRizUrQsFeN1TlxaXld3obPmh5a5AMMB-YGCfJHLvA",
+      "signature": "MEUCIBtpn5K7IvYJtQ05fYQHCw3tHHKnRinBI8LxvAr_v7V2AiEAz19KDHadi2JwvcxSEynKSSfpVbOqLH7VRIDVU3nSzJI"
+    }
+  }
+}
